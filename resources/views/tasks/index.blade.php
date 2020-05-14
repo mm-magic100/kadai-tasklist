@@ -9,7 +9,7 @@
             <thead>
                 <tr>
                     <th>id</th>
-                    <th>タイトル</th>
+                    <th>期限</th>
                     <th>タスク</th>
                 </tr>
             </thead>
